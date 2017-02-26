@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.27)  26 FEB 2017 19:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.27)  26 FEB 2017 19:28
 entering extended mode
 **./main.tex
 (main.tex
@@ -363,39 +363,38 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout2 = `work.aux'.
 
  (work.tex
-<img_source/tr.jpg, id=13, 496.85625pt x 414.54875pt>
+<img_source/tr.jpg, id=13, 139.27031pt x 123.46124pt>
 File: img_source/tr.jpg Graphic file (type jpg)
  <use img_source/tr.jpg>
 Package pdftex.def Info: img_source/tr.jpg used on input line 11.
-(pdftex.def)             Requested size: 496.85503pt x 414.54773pt.
-
+(pdftex.def)             Requested size: 139.26996pt x 123.46092pt.
+)
 [3
 
- <./img_source/tr.jpg>]) [4] (main.aux (title_page.aux) (work.aux)) ) 
+ <./img_source/tr.jpg>] (main.aux (title_page.aux) (work.aux)) ) 
 Here is how much of TeX's memory you used:
  4057 strings out of 493334
  52664 string characters out of 3139213
- 125734 words of memory out of 3000000
+ 127734 words of memory out of 3000000
  7479 multiletter control sequences out of 15000+200000
  14733 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,9n,26p,699b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users
+ <C:\Users\Ан
+астасия\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx14
+40.pk> <C:\Users\Анастасия\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh
+\lh-t2a\dpi600\labx1200.pk> <C:\Users\Анастасия\AppData\Local\MiKTeX\2
+.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk> <C:\Users\Анастасия\A
+ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk> <C:\Users
 \Анастасия\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\l
-abx1440.pk> <C:\Users\Анастасия\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
-ur\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\Анастасия\AppData\Local\MiK
-TeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk> <C:\Users\Анастас�
-�я\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk> <C:\
-Users\Анастасия\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi
-600\laxc1728.pk> <C:\Users\Анастасия\AppData\Local\MiKTeX\2.9\fonts\pk
-\ljfour\lh\lh-t2a\dpi600\larm1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b>
-Output written on main.pdf (4 pages, 153878 bytes).
+axc1728.pk> <C:\Users\Анастасия\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
+ur\lh\lh-t2a\dpi600\larm1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (3 pages, 127307 bytes).
 PDF statistics:
- 274 PDF objects out of 1000 (max. 8388607)
+ 271 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
